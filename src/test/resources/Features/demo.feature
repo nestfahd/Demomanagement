@@ -1,7 +1,7 @@
 #Author: Mush
 Feature: Demo app login 
 
-Background:
+Scenario: Launch app
 Given Launch chrome browser
 When Navigate to demoAPP url
 
